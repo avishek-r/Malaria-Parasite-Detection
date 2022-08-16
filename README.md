@@ -5,8 +5,7 @@ Download the source file and run streamlit run app.py in the terminal containing
 ## DATASET
 Dataset is from kaggle. <br>
 https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria <br>
-The dataset contains 2 folders
-Infected
-Uninfected
-And a total of 27,558 images.
+The dataset contains 2 folders <br>
+Infected and Uninfected <br>
+And a total of 27,558 images. <br>
 
