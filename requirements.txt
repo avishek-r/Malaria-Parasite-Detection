@@ -2,6 +2,5 @@ streamlit
 matplotlib
 reportlab
 opencv-python
-keras
-tensorflow
+tensorflow-cpu
 numpy
