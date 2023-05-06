@@ -7,3 +7,5 @@ keras
 reportlab
 opencv-python
 tensorflow-cpu
+plotly
+reportlab
