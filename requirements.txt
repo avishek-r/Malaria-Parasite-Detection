@@ -5,5 +5,4 @@ pandas
 keras
 reportlab
 opencv-python
-tensorflow-cpu
 
