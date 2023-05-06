@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+reportlab
+cv2
+keras
+tensorflow
+numpy
